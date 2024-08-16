@@ -172,7 +172,6 @@ php vendor/bin/codecept run --shard 3/3
 
 ![h:300](image.png)
 
-
 ---
 
 ## Сучасні технології
